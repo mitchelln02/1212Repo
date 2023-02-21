@@ -1,0 +1,16 @@
+public void hexagon() {
+
+    this.forward(50);
+    this.turn(60);
+    this.forward(50);
+    this.turn(60);
+    this.forward(50);
+    this.turn(60);
+    this.forward(50);
+    this.turn(60);
+    this.forward(50);
+    this.turn(60);
+    this.forward(50);
+    this.turn(60);
+
+  }
